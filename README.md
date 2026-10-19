@@ -25,7 +25,7 @@ I build systems end to end: distributed protocols, P2P delivery, containerised s
 
 ### hoppin: end-to-end encrypted, offline-first messenger
 <!-- Add the repository or website link here -->
-[![Website](https://hoppin.chat)
+[![Website](https://img.shields.io/badge/hoppin.chat-000000?style=flat&logo=googlechrome&logoColor=white)](https://hoppin.chat)
 
 `Swift` `Python` `Next.js` `CryptoKit`
 
